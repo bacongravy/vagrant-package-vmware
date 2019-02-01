@@ -1,3 +1,7 @@
+### Important Notice
+
+**This project is no longer being maintained. It has been made obsolete by the release of the [Vagrant VMware Desktop Plugin](https://www.hashicorp.com/blog/introducing-the-vagrant-vmware-desktop-plugin), which now includes support for the Vagrant `package` command.**
+
 # vagrant-package-vmware
 
 `vagrant-package-vmware` is a [Vagrant](http://vagrantup.com) plugin for packaging a running VMware vagrant environment into a box.
